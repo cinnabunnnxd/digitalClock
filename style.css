@@ -1,8 +1,7 @@
 body{
     margin: 0;
-    background: url(bg.jpg) no-repeat scroll 50% 50%;
+    background: url(bg.jpg)  scroll 50% 50%;
     background-position: center;
-    background-size: cover;
 }
 
 #clock-container{
